@@ -11,8 +11,8 @@ import moment from 'moment-timezone'
 // Staff De CrowBot
 global.owner = [
    ['51920227615', 'Creador Seishiro-Nagi', true],
-   ['50240447765', 'niki's creación de logos', true],
-   ['', 'Dev Diomar', true],
+   ['',  '', true],
+   ['50240447765', 'Dev nikis', true],
    ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['', 'Dev Senna', true],
    ['', 'Dev Prak', true],
