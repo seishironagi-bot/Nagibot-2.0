@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 // Staff De CrowBot
 global.owner = [
    ['51920227615', 'Creador Seishiro-Nagi', true],
-   ['', 'CrowBot Soporte', true],
+   ['50240447765', 'niki's creación de logos', true],
    ['', 'Dev Diomar', true],
    ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['', 'Dev Senna', true],
@@ -27,7 +27,7 @@ global.creadorbot = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['', '', '', '', '', '', '']
+global.mods = ['50760276493', '527451287206', '', '', '', '', '']
 
 global.prems = ['']
 
