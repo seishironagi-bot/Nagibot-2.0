@@ -10,8 +10,8 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
     // VCARD
     let list = [{
-        displayName: "WillZek-Ofc 🎩",
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: ᴡɪʟʟᴢᴇᴋ-ᴏғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Nicaragua;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
+        displayName: "Seishiro-Nagi",
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:Seishiro-Nagi🍭\nitem1.TEL;waid=51920227616:51920227615\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Perú;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
     await conn.sendMessage(m.chat, {
@@ -22,10 +22,10 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
         contextInfo: {
             externalAdReply: {
                 showAdAttribution: true,
-                title: 'һ᥆ᥣᥲ s᥆ᥡ ᥕіᥣᥣzᥱk-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
+                title: 'һ᥆ᥣᥲ s᥆ᥡ Seishiro Nagi un practicante',
                 body: dev,
                 thumbnailUrl: 'https://files.catbox.moe/185de7.jpg',
-                sourceUrl: 'https://wa.me/50557865603?text=Vengo+Del+Comando+.owner',
+                sourceUrl: 'https://wa.me/51920227615?text=Vengo+Del+Comando+.owner',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
