@@ -25,14 +25,14 @@ let tags = {
   'logos': '「EDICION LOGOS」🍨', 
 }
 
-const vid = ['https://files.catbox.moe/07lnqw.mp4', 'https://files.catbox.moe/07lnqw.mp4', 'https://files.catbox.moe/z23r5g.mp4']
+const vid = ['https://files.catbox.moe/z23r5g.mp4', 'https://files.catbox.moe/z23r5g.mp4', 'https://files.catbox.moe/z23r5g.mp4']
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
 
 "*「💛」 ¡Hola! %name soy ${nombrebot}*, *%greeting* ❒"
 
-╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐁𝐎𝐓⊰*
+╔━━━━━ *⊱INFO - BOT⊰*
 ✦  👤 *Cliente:* %name
 ✧  ❤️‍🔥 *Exp:* %exp
 ✦  🌟 *Estrellas:* %estrellas
@@ -40,7 +40,7 @@ const defaultMenu = {
 ✦  🌠 *Rango:* %role
 ╚━━━━━━━━━━━━━━
 %readmore
-╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐔𝐒𝐄𝐑⊰*
+╔━━━━━ *⊱INFO - USER⊰*
 ✧  🤖 *Bot:* Nagi-Bot
 ✦  🔱 *Modo:* Privado VIP 
 ✧  ✨ *Baileys:* Multi Device
@@ -52,7 +52,7 @@ const defaultMenu = {
 
 \t*(✰◠‿◠) 𝐂 𝐨 𝐦 𝐚 𝐧 𝐝 𝐨 𝐬*   
 `.trimStart(),
-  header: '✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚\n┊➳ %category \n✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚',
+  header: '✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚\n┊ %category \n✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚',
   body: '*┃⏤͟͟͞͞🍭➤›* %cmd',
   footer: '*┗━*\n',
   after: `> ${dev}`,
